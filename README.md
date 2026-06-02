@@ -1,7 +1,4 @@
-<!-- ELITE 3D CYBERPUNK THEME -->
-
 <div align="center">
-  <!-- 3D Animated Synthwave / Cyberpunk Grid Header -->
   <img src="https://i.pinimg.com/originals/a4/09/a0/a409a067a28e7e1724fdf80ea288db73.gif" alt="3D Cyberpunk Banner" width="100%" style="border-radius: 15px;" />
   
   <br/>
@@ -34,7 +31,6 @@
   </table>
 </div>
 
-<!-- Neon Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ Elite Tech Stack
