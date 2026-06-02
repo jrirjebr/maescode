@@ -91,7 +91,7 @@
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="45"/>
   </a>
   &nbsp;
-  <a href="https://leetcode.com/YOUR_LEETCODE_HERE" target="_blank">
+  <a href="https://leetcode.com/u/maescode/" target="_blank">
     <img src="https://img.shields.io/badge/Solve_on_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="45"/>
   </a>
   &nbsp;
