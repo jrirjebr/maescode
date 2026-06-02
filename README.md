@@ -87,8 +87,7 @@
 ## 🔗 Connect With Me (Click to Connect!)
 
 <div align="center">
-  <!-- Replace YOUR_LINKEDIN_HERE and YOUR_LEETCODE_HERE below! -->
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE" target="_blank">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/s-67384a167/" target="_blank">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="45"/>
   </a>
   &nbsp;
