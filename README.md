@@ -3,7 +3,6 @@
   
   <br/>
   
- 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Welcome+to+the+Matrix;I'm+Sanjay+Pandey;Web+%26+AI+Developer;Crafting+Cyberpunk+UIs;2nd+Year+Software+Engineering" alt="Typing SVG" />
 </div>
 
@@ -76,6 +75,27 @@
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=maescoder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="maescoder Trophies" />
+  </a>
+</div>
+
+<br/>
+
+## 🐍 My Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maescoder/maescoder/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maescoder/maescoder/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/maescoder/maescoder/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
