@@ -82,7 +82,7 @@
 ## 🔗 Connect With Me (Click to Connect!)
 
 <div align="center">
-  <a href="www.linkedin.com/in/sanjay-pandey-67384a167/" target="_blank">
+  <a href="https://www.linkedin.com/in/sanjay-pandey-67384a167/" target="_blank">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="45"/>
   </a>
   &nbsp;
@@ -90,12 +90,11 @@
     <img src="https://img.shields.io/badge/Solve_on_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="45"/>
   </a>
   &nbsp;
-  <a href="mailto:hpspap00@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hpspap00@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Send_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="45"/>
   </a>
 </div>
 
-<!-- Neon Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📈 GitHub Analytics
