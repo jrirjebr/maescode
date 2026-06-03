@@ -77,15 +77,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=maescoder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="maescoder Trophies" />
-  </a>
-</div>
-
-<br/>
 
 ## 🐍 My Contribution Snake
 
@@ -120,7 +111,8 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maescoder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=maescoder&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117
+" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maescoder&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 
