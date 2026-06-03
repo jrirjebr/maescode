@@ -3,11 +3,10 @@
   
   <br/>
   
-  <!-- Animated Typing Text -->
+ 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Welcome+to+the+Matrix;I'm+Sanjay+Pandey;Web+%26+AI+Developer;Crafting+Cyberpunk+UIs;2nd+Year+Software+Engineering" alt="Typing SVG" />
 </div>
 
-<!-- Neon Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 👨‍💻 About Me
