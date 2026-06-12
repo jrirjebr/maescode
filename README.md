@@ -14,7 +14,7 @@
     <tr>
       <td width="70%">
         <ul>
-          <li>🎓 <b>Education:</b> I am a <b>2nd-year student</b> navigating the exciting world of software engineering!</li>
+          <li>🎓 <b>Education:</b> I am a <b>3rd-year student</b> navigating the exciting world of software engineering!</li>
           <li>💻 <b>Interests:</b> I have a strong passion for <b>Web Development, Artificial Intelligence</b>, and <b>UI/UX Design</b>.</li>
           <li>🚀 <b>Currently building:</b> Web & AI projects. I love blending backend logic with highly attractive, colorful frontends.</li>
           <li>⚡ <b>Fun Fact:</b> Sleeping is my superpower.</li>
