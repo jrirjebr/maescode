@@ -17,7 +17,6 @@
           <li>⚡ <b>Fun Fact:</b> Sleeping is my superpower.</li>
         </ul>
       </td>
-      
       <td width="30%" align="center">
         <!-- 3D Animated Octocat -->
         <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="3D Octocat" width="180" />
