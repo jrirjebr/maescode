@@ -101,7 +101,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📈 GitHub Analytics
-
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=maescoder&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maescoder&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
