@@ -10,6 +10,7 @@
   <table border="0">
     <tr>
       <td width="70%">
+        
         <ul>
           <li>🎓 <b>Education:</b> I am a <b>3rd-year student</b> navigating the exciting world of software engineering!</li>
           <li>💻 <b>Interests:</b> I have a strong passion for <b>Web Development, Artificial Intelligence</b>, and <b>UI/UX Design</b>.</li>
