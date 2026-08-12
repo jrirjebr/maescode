@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/a4/09/a0/a409a067a28e7e1724fdf80ea288db73.gif" alt="3D Cyberpunk Banner" width="100%" style="border-radius: 15;" />
+  <img src="https://i.pinimg.com/originals/a4/09/a0/a409a067a28e7e1724fdf80ea288db73.gif" alt="3D Cyberpunk Banner" width="100%" style="border-radius: 15px;" />
   <br/> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Welcome+to+the+Matrix;I'm+Sanjay+Pandey;Web+%26+AI+Developer;3rd+Year+Engineering+Student" alt="Typing SVG" />
 </div>
